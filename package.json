@@ -1,0 +1,16 @@
+{
+  "name": "wheaterapi",
+  "version": "1.0.0",
+  "description": "is a wheater api with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "country-list": "^2.2.0",
+    "express": "^4.18.1"
+  }
+}
